@@ -26,5 +26,6 @@ Desktop.ini
 .DS_Store
 
 # Project specific
-screenshots/
-reports/
+# screenshots/
+# reports/
+
